@@ -19,6 +19,14 @@ Watch [CSS3 from Scratch (1:38:00)](http://pluralsight.com/training/Courses/Tabl
 
 Watch [HTML5 from Scratch (1:36:00)](http://pluralsight.com/training/Courses/TableOfContents/html5-from-scratch)
 
+Read [Responsive Web Design: What It Is and How To Use It](http://www.smashingmagazine.com/2011/01/12/guidelines-for-responsive-web-design/)
+
+Watch [Braindump on Responsive Web Design](http://css-tricks.com/video-screencasts/102-braindump-on-responsive-web-design/)
+
+Read [Progressive And Responsive Navigation](http://www.smashingmagazine.com/2012/02/13/progressive-and-responsive-navigation/)
+
+Build a responsive website
+
 ### Interaction with jQuery
 
 Watch [jQuery Fundamentals (5:18:00)](http://pluralsight.com/training/Courses/TableOfContents/jquery-fundamentals)
