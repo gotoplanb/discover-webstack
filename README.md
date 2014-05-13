@@ -11,7 +11,7 @@ What to Expect from this Curriculum
 Getting Started with GitHub
 ??
 
-### Structure and Presentation
+### Structure and Presentation with HTML and CSS
 
 Watch [HTML Fundamentals (2:13:00)](http://pluralsight.com/training/Courses/TableOfContents/html-fundamentals)
 
@@ -19,9 +19,11 @@ Watch [CSS3 from Scratch (1:38:00)](http://pluralsight.com/training/Courses/Tabl
 
 Watch [HTML5 from Scratch (1:36:00)](http://pluralsight.com/training/Courses/TableOfContents/html5-from-scratch)
 
-### Behavior
+### Interaction with jQuery
 
 Watch [jQuery Fundamentals (5:18:00)](http://pluralsight.com/training/Courses/TableOfContents/jquery-fundamentals)
+
+### Behavior with JavaScript
 
 Watch [Frontend Web Development: Getting Started (3:44:00)](http://pluralsight.com/training/Courses/TableOfContents/front-end-web-development-get-started)
 
