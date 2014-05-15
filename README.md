@@ -58,3 +58,5 @@ Watch [Introdution to Node.js (2:48:00)](http://pluralsight.com/training/Courses
 ### Persistence
 
 Watch [Introduction to MongoDB (2:27:00)](http://pluralsight.com/training/Courses/TableOfContents/mongodb-introduction)
+
+Watch [Backbone Persistence (3:11:00)](Backbone.js Persistence)
