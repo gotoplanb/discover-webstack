@@ -25,6 +25,8 @@ Watch [Braindump on Responsive Web Design](http://css-tricks.com/video-screencas
 
 Read [Progressive And Responsive Navigation](http://www.smashingmagazine.com/2012/02/13/progressive-and-responsive-navigation/)
 
+Play [CSS Diner](http://flukeout.github.io/)
+
 Build two responsive web pages based on provided visual design (detail page and list page)
 
 ### Interaction with jQuery
