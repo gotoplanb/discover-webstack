@@ -17,6 +17,8 @@ Watch [HTML Fundamentals (2:13:00)](http://pluralsight.com/training/Courses/Tabl
 
 Watch [CSS3 from Scratch (1:38:00)](http://pluralsight.com/training/Courses/TableOfContents/css3-from-scratch)
 
+Read [* { Box-sizing: Border-box } FTW](http://www.paulirish.com/2012/box-sizing-border-box-ftw/)
+
 Watch [HTML5 from Scratch (1:36:00)](http://pluralsight.com/training/Courses/TableOfContents/html5-from-scratch)
 
 Read [Responsive Web Design: What It Is and How To Use It](http://www.smashingmagazine.com/2011/01/12/guidelines-for-responsive-web-design/)
