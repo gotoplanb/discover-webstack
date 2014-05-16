@@ -29,17 +29,24 @@ Read [Progressive And Responsive Navigation](http://www.smashingmagazine.com/201
 
 Play [CSS Diner](http://flukeout.github.io/)
 
-Build two responsive web pages based on provided visual design (detail page and list page)
+#### Build three responsive web pages based on provided visual design 
+
+1. list page
+2. detail page
+3. edit detail page
 
 ### Interaction with jQuery
 
 Watch [jQuery Fundamentals (5:18:00)](http://pluralsight.com/training/Courses/TableOfContents/jquery-fundamentals)
 
-Read about hammer.js
+Read about [hammer.js](http://eightmedia.github.io/hammer.js/)
 
-Read about fastclick
+Read about [FastClick](http://ftlabs.github.io/fastclick/)
 
-Build a) tabbed container, b) carousel
+#### Build dynamic UI
+
+1. tabbed container
+2. carousel
 
 ### Behavior with JavaScript
 
