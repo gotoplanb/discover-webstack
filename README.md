@@ -64,6 +64,12 @@ Watch [Introdution to Node.js (2:48:00)](http://pluralsight.com/training/Courses
 
 ### Persistence
 
-Watch [Introduction to MongoDB (2:27:00)](http://pluralsight.com/training/Courses/TableOfContents/mongodb-introduction)
+Play [SQLZOO tutorial](http://sqlzoo.net/wiki/Main_Page) series
+
+Watch [A Tour of PostgreSQL (2:14:00)](http://pluralsight.com/training/courses/TableOfContents?courseName=tekpub-postgres&highlight=rob-sullivan_tekpub-postgres-m1-introduction!rob-sullivan_tekpub-postgres-m5-perf!rob-sullivan_tekpub-postgres-m8-maintenance!rob-sullivan_tekpub-postgres-m4-concurrency!rob-sullivan_tekpub-postgres-m7-psql#tekpub-postgres-m1-introduction)
+
+Read [node-postgres](https://github.com/brianc/node-postgres) docs
 
 Watch [Backbone Persistence (3:11:00)](Backbone.js Persistence)
+
+Watch [Introduction to MongoDB (2:27:00)](http://pluralsight.com/training/Courses/TableOfContents/mongodb-introduction)
