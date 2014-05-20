@@ -8,8 +8,12 @@ Learning the modern webstack through self-directed learning and collaborative pr
 
 What to Expect from this Curriculum
 
-Getting Started with GitHub
-??
+### Getting Started with GitHub
+
+* Create a GitHub Account
+* Answer these questions:
+  1. foo
+  2. bar
 
 ### Structure and Presentation with HTML and CSS
 
