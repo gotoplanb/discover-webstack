@@ -43,6 +43,8 @@ Read about [hammer.js](http://eightmedia.github.io/hammer.js/)
 
 Read about [FastClick](http://ftlabs.github.io/fastclick/)
 
+Play [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
+
 #### Build dynamic UI
 
 1. tabbed container
