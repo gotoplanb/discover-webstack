@@ -11,6 +11,7 @@ What to Expect from this Curriculum
 ### Getting Started with GitHub
 
 * Create a GitHub Account
+* Create a new repository
 * Answer these questions:
   1. What is Git?
   2. Why is it different from other SCMs?
@@ -19,10 +20,12 @@ What to Expect from this Curriculum
   5. What is a commit?
 * Install GitHub for Mac (or Windows or Linux)
 * Add a public key
+* Clone a repository
 * Answer these questions:
   1. How to initialize a new local repository
   2. How to clone a remote repository? What is "Origin"? 
 * Play the introduction sequence in [Learn Git Branching](http://pcottle.github.io/learnGitBranching/) 
+* Make a commit and push your local repository
 * Answer these questions:
   1. What does HEAD refer to?
   1. What is the working copy?
