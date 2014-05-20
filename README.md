@@ -12,8 +12,28 @@ What to Expect from this Curriculum
 
 * Create a GitHub Account
 * Answer these questions:
-  1. foo
-  2. bar
+  1. What is Git?
+  2. Why is it different from other SCMs?
+  3. What are repositories in Git world? What is a "truth repository"?
+  4. What is a branch?
+  5. What is a commit?
+* Install GitHub for Mac (or Windows or Linux)
+* Add a public key
+* Answer these questions:
+  1. How to initialize a new local repository
+  2. How to clone a remote repository? What is "Origin"? 
+* Play the introduction sequence in [Learn Git Branching](http://pcottle.github.io/learnGitBranching/) 
+* Answer these questions:
+  1. What does HEAD refer to?
+  1. What is the working copy?
+  1. What is the git staging area?
+  1. How do you add a new file to the staging area?
+  1. How do you add a modified file to the staging area?
+  1. How do you remove a file from the repository? 
+  1. How do you make a commit?
+  1. What is a commit ID?
+  1. How do you view the previous commits that have been made? 
+  1. How do you reset the local working copy? 
 
 ### Structure and Presentation with HTML and CSS
 
