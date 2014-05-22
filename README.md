@@ -85,7 +85,17 @@ Watch [Git Fundamentals (1:51:00)](http://pluralsight.com/training/courses/Table
 
 Watch [JavaScript the Good Parts (4:52:00)](http://pluralsight.com/training/Courses/TableOfContents/javascript-good-parts)
 
+Play with [Postman](http://www.getpostman.com/) to interact with some third-party API
+
+#### Add functionality
+
+1. Use [markdown-js](https://github.com/evilstreak/markdown-js) to allow users more formatting options in text areas
+2. Use the [Forecast.io](https://developer.forecast.io/) API to show a weather forecast for a location of your choice
+3. Use the [HTML5 Geolocation API](http://diveintohtml5.info/geolocation.html) to show a weather forecast based on current location
+
 ### Requests and Responses
+
+Read about [Underscore](http://underscorejs.org/)
 
 Watch [Backbone.js Fundamentals (4:42:00)](http://pluralsight.com/training/Courses/TableOfContents/backbone-fundamentals)
 
@@ -102,7 +112,3 @@ Read [node-postgres](https://github.com/brianc/node-postgres) docs
 Watch [Backbone Persistence (3:11:00)](Backbone.js Persistence)
 
 Watch [Introduction to MongoDB (2:27:00)](http://pluralsight.com/training/Courses/TableOfContents/mongodb-introduction)
-
-### Improving
-
-Use [markdown-js](https://github.com/evilstreak/markdown-js) to allow users more formatting options in their descriptions
