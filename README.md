@@ -111,4 +111,6 @@ Read [node-postgres](https://github.com/brianc/node-postgres) docs
 
 Watch [Backbone Persistence (3:11:00)](Backbone.js Persistence)
 
-Watch [Introduction to MongoDB (2:27:00)](http://pluralsight.com/training/Courses/TableOfContents/mongodb-introduction)
+Read [Introduction to MongoDB](http://docs.mongodb.org/manual/)
+
+Answer these question comparing databases: tbd Google Form
