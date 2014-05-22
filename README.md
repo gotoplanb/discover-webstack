@@ -114,3 +114,13 @@ Watch [Backbone Persistence (3:11:00)](Backbone.js Persistence)
 Read [Introduction to MongoDB](http://docs.mongodb.org/manual/)
 
 Answer these question comparing databases: tbd Google Form
+
+### DevOps
+
+Use Grunt to load test data
+
+Deploy to Heroku
+
+Deploy to Amazon EC2
+
+Continuous Integration
